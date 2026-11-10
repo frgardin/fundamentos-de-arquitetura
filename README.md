@@ -2,10 +2,11 @@
 
 Repositório de estudos do curso de **Arquitetura de Sistemas** da **Anhanguera**.
 
-Cada aula tem uma pasta própria com dois arquivos:
+Cada aula tem uma pasta própria com:
 
 - `README.md` — conteúdo de referência, com objetivos, conceitos, trade-offs e perguntas de revisão;
-- `anotacoes.md` — espaço pessoal para resumos, dúvidas e conexões feitas durante a aula.
+- `anotacoes.md` — espaço pessoal para resumos, dúvidas e conexões feitas durante a aula;
+- `anexo/` — materiais da aula, como slides, PDFs e planilhas.
 
 > A ideia é que este repositório funcione como um caderno técnico vivo: o README explica, as anotações registram o que você entendeu.
 
@@ -56,7 +57,7 @@ cd fundamentos-de-arquitetura
 
 ### 2. Estude pela pasta da aula
 
-Leia o `README.md` da aula antes ou depois da exposição do professor. Ele funciona como um mapa: não substitui a aula, mas organiza o que foi visto.
+Leia o `README.md` da aula antes ou depois da exposição do professor. Ele funciona como um mapa: não substitui a aula, mas organiza o que foi visto. Os slides e demais materiais fornecidos ficam em `anexo/`, na pasta da aula.
 
 ### 3. Registre suas anotações
 

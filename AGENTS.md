@@ -1,6 +1,6 @@
 # AGENTS.md — Regras do repositório
 
-Repositório de anotações do curso de **Arquitetura de Sistemas** (Anhanguera). Cada `aula` é uma pasta numerada com dois arquivos: `README.md` (conteúdo de referência) e `anotacoes.md` (notas pessoais do estudante).
+Repositório de anotações do curso de **Arquitetura de Sistemas** (Anhanguera). Cada `aula` é uma pasta numerada com `README.md` (conteúdo de referência), `anotacoes.md` (notas pessoais do estudante) e `anexo/` (materiais da aula).
 
 ## Idioma
 
@@ -12,8 +12,8 @@ Repositório de anotações do curso de **Arquitetura de Sistemas** (Anhanguera)
 
 - Pastas de aula seguem o padrão `NN-nome-em-kebab-case`, com dois dígitos (`01` a `13`).
 - A ordem numérica é o cronograma do curso: **nunca renumere nem reordene** pastas existentes.
-- Cada aula contém exatamente `README.md` e `anotacoes.md`.
-- Arquivos e links internos usam caminhos relativos e kebab-case.
+- Cada aula contém `README.md`, `anotacoes.md` e a pasta `anexo/`.
+- Arquivos e links internos usam caminhos relativos e kebab-case; arquivos em `anexo/` mantêm o nome original.
 
 ## Conteúdo dos READMEs de aula
 
@@ -29,6 +29,13 @@ Todo README de aula deve ter, nesta ordem:
 
 O README explica o tema; ele não é um resumo pessoal. Exemplos e opiniões do estudante vão para `anotacoes.md`.
 
+## Anexos
+
+- Materiais da aula (slides, PDFs, planilhas, imagens) ficam em `anexo/`, na pasta da aula correspondente.
+- Preserve o nome original do arquivo para manter a rastreabilidade com a fonte; não edite o conteúdo.
+- Liste cada anexo no README da aula, na seção `## Materiais anexos`, com link relativo.
+- Mantenha `anexo/.gitkeep` enquanto a pasta estiver vazia; remova-o quando houver arquivos.
+
 ## Anotações
 
 - `anotacoes.md` pertence ao estudante: **preserve o conteúdo existente** ao editar.
@@ -38,7 +45,7 @@ O README explica o tema; ele não é um resumo pessoal. Exemplos e opiniões do 
 ## Ao adicionar ou alterar uma aula
 
 1. Crie a pasta com o próximo número disponível.
-2. Crie `README.md` e `anotacoes.md` seguindo o padrão acima.
+2. Crie `README.md`, `anotacoes.md` e `anexo/` (com `.gitkeep`) seguindo o padrão acima.
 3. Atualize a tabela **Estrutura das aulas** e a lista de progresso no `README.md` raiz.
 4. Verifique se os links relativos funcionam.
 

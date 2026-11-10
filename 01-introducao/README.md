@@ -77,6 +77,12 @@ Um arquiteto que só decide no início e desaparece tende a produzir uma arquite
 4. O que significa dizer que arquitetura é uma atividade contínua?
 5. Dê um exemplo de decisão arquitetural em um sistema que você conhece.
 
+## Materiais anexos
+
+- [Slides (96).zip](anexo/Slides%20%2896%29.zip) — slides da aula.
+- [arquitetura-de-sistemas-elder-moraes.pdf](anexo/arquitetura-de-sistemas-elder-moraes.pdf) — material da disciplina.
+- [arquitetura-de-sistemas-elder-moraes-material-autoral.pdf](anexo/arquitetura-de-sistemas-elder-moraes-material-autoral.pdf) — material autoral.
+
 ## Para ir além
 
 - RICHARDS, Mark; FORD, Neal. *Fundamentos de Arquitetura de Software*. Cap. 1 — Introduction.
