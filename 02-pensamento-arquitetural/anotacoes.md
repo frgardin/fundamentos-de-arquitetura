@@ -61,6 +61,11 @@ Isso faz com que o arquiteto sempre precise se atualizar na sua main stack e nas
 
 ## Analise de Trade-offs
 
+- nao existe solucao perfeita, toda solucao traz pontos positivos e negativos
+- precisa de muita informacao/contexto para tomar decisoes dado que muitas variaveis importam: requisitos, ambiente, prazos, equipe, restricoes de negocio
+- nao existe resposta certa, arquiteto tem q assumir a responsabilidade
+
+
 
 
 
