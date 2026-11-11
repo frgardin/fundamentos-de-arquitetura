@@ -65,6 +65,16 @@ Isso faz com que o arquiteto sempre precise se atualizar na sua main stack e nas
 - precisa de muita informacao/contexto para tomar decisoes dado que muitas variaveis importam: requisitos, ambiente, prazos, equipe, restricoes de negocio
 - nao existe resposta certa, arquiteto tem q assumir a responsabilidade
 
+## Importancia dos Business Drivers
+
+O Que São Drivers de Negócio: São os objetivos e necessidades
+de negócio que o software deve atender ou suportar. Incluem
+metas como atender a N usuários simultâneos, cumprir certos
+regulamentos, permitir expansão para novos mercados, reduzir
+custos de infraestrutura, prazo de lançamento, etc. Em suma, são
+razões de alto nível pelas quais o projeto existe e o que ele precisa
+alcançar para ser bem-sucedido.
+
 
 
 
